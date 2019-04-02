@@ -4,7 +4,7 @@ FHIR-based EHR Phenotyping on Identification of Patients with Obesity and Multip
 ## System Architecture
 ![alt text](https://github.com/BD2KOnFHIR/nlp2fhir-obesity-phenotyping/blob/master/system_architecture.png "System Architecture")
 
-## SHAP Graphs 
+## SHAP Graphs for Interpretability
 Visualizing the features that have a large contribution to the classification of each condition using [SHAP Graphs](https://github.com/slundberg/shap).
 
 * https://bd2konfhir.github.io/Obesity/SHAP1.html
