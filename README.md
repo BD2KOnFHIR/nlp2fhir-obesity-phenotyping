@@ -11,7 +11,7 @@ Visualizing the features that have a large contribution to the classification of
 
 * https://bd2konfhir.github.io/Obesity/SHAP_Graphs_R1.html 
 
-### SHAP graphs from original JBI submission
+### SHAP graphs for original JBI submission
 
 * https://bd2konfhir.github.io/Obesity/SHAP1.html
 * https://bd2konfhir.github.io/Obesity/SHAP2.html
