@@ -20,4 +20,6 @@ Visualizing the features that have a large contribution to the classification of
 * https://bd2konfhir.github.io/Obesity/SHAP5.html
 * https://bd2konfhir.github.io/Obesity/SHAP6.html
 
+## Section Index File
 
+* https://raw.githubusercontent.com/BD2KOnFHIR/nlp2fhir-obesity-phenotyping/master/SECTIONS_Index_V9.csv
