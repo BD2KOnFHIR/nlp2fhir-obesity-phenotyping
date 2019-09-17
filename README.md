@@ -22,4 +22,4 @@ Visualizing the features that have a large contribution to the classification of
 
 ## Section Index File
 
-* https://raw.githubusercontent.com/BD2KOnFHIR/nlp2fhir-obesity-phenotyping/master/SECTIONS_Index_V9.csv
+* https://github.com/BD2KOnFHIR/nlp2fhir-obesity-phenotyping/blob/master/SECTIONS_Index_V9.csv
